@@ -1,0 +1,17 @@
+{
+    "name": "rfreebern/google-image-search",
+    "description": "Simple PHP library for Google Image search.",
+    "keywords": ["google", "images", "photos", "search", "gif", "jpg", "jpeg"],
+    "license": "CC0",
+    "authors": [
+        {
+            "name": "Ryan Freebern",
+            "email": "ryan@freebern.org"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "rfreebern": "src/"
+        }
+    }
+}

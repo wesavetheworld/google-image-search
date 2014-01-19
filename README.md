@@ -4,7 +4,7 @@ This library offers a simple PHP front-end to Google Image Search.
 
 ## Installation
 
-    composer install google-image-search
+    composer require rfreebern/google-image-search
 
 ## Example
 
